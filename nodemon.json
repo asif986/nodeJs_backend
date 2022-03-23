@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PS": "gh0oDGGJbG8QbDfD",
+        "SECRET_KEY": "this_token_should_longer"
+    }
+}
